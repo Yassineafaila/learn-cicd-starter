@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Build Docker Image
-        uses: buildprod.sh
+        run: buildprod.sh
